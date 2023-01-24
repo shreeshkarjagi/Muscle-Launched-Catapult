@@ -36,11 +36,13 @@ The PWM commands, found in [EMG_signalactuated_Servo.ino](https://github.com/shr
 
 ## 3D Catapult mechanism
 
-![3D Printed Catapult ]([image_url](https://github.com/shreeshkarjagi/Muscle-Launched-Catapult/blob/main/Catapult_3Dprint1.jpg))
+![3D Printed Catapult 1](https://github.com/shreeshkarjagi/Muscle-Launched-Catapult/blob/main/Catapult_3Dprint1.jpg)
+![3D Printed Catapult 2](https://github.com/shreeshkarjagi/Muscle-Launched-Catapult/blob/main/Catapult_3Dprint2.jpg)
+![3D Printed Catapult 3](https://github.com/shreeshkarjagi/Muscle-Launched-Catapult/blob/main/Catapult_3Dprint3.jpg)
 
 ## Demo Video
 
-Insert demo video link here
+![Demo]([https://github.com/shreeshkarjagi/Muscle-Launched-Catapult/blob/main/Catapult_3Dprint3.jpg](https://github.com/shreeshkarjagi/Muscle-Launched-Catapult/blob/main/Demo.mov))
 
 ## Future Work
 
