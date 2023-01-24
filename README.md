@@ -20,7 +20,8 @@ Our solution is a muscle-controlled catapult that utilizes a Myoware muscle sens
 The Myoware muscle sensor is placed on the patient's muscle and connected to an Arduino microcontroller. The sensor measures the electrical activity of the muscle and sends the data to the microcontroller.
 
 ### Arduino Signal Processing
-The Arduino microcontroller processes the muscle activity data and converts it into PWM commands that can be understood by the servo motor.
+The Arduino microcontroller processes the muscle activity data and converts it into PWM commands that can be understood by the servo motor. [EMG_signalactuated_Servo.ino](https://github.com/username/repository/EMG_signalactuated_Servo.ino) includes simple code that aquires the signal, filters it and then comapares it to a pre-set threshold to actuate the Servo. 
+
 
 ### PWM Commands
 The PWM commands are sent to the servo motor, which actuates the catapult, launching it based on the patient's muscle activity.
