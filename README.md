@@ -24,19 +24,19 @@ The Arduino microcontroller processes the muscle activity data and converts it i
 
 
 ### PWM Commands
-The PWM commands are sent to the servo motor, which actuates the catapult, launching it based on the patient's muscle activity.
+The PWM commands, found in [EMG_signalactuated_Servo.ino](https://github.com/shreeshkarjagi/Muscle-Launched-Catapult/blob/main/EMG_signalactuated_Servo.ino, are sent to the servo motor, which actuates the catapult, launching it based on the patient's muscle activity.
 
 ## Bill of Materials
 
-- Myoware muscle sensor
+- Myoware muscle sensor kit
 - Arduino microcontroller
 - Servo motor
 - 3D Catapult mechanism
 - Wires and connectors
 
-## 3D Design
+## 3D Catapult mechanism
 
-Insert 3D design image here
+![3D Printed Catapult ]([image_url](https://github.com/shreeshkarjagi/Muscle-Launched-Catapult/blob/main/Catapult_3Dprint1.jpg))
 
 ## Demo Video
 
