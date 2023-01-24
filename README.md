@@ -47,4 +47,4 @@ Insert demo video link here
 - Investigating the use of the muscle-controlled catapult for other applications, such as physical rehabilitation for stroke patients.
 
 We hope that this project serves as a proof of concept for the potential of using muscle-controlled technology in physiotherapy and other rehabilitation settings. We are excited to see how this technology can be further developed and utilized in the future.
-``
+
