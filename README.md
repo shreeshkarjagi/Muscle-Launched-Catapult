@@ -2,8 +2,6 @@
 Innovative Physiotherapy: Muscle-controlled Catapult using Myoware &amp; Servo
 
 
-
-
 ## Introduction
 
 This project, created by the Team: Muscle Boyz (Andrew Tejada, Eric Zavala, Jason Kong, Shreesh Karjagi, Utkarsh Kumar) during Idea Hacks LA 2023, aims to revolutionize physiotherapy by using cutting-edge technology to develop a muscle-controlled catapult. By utilizing a Myoware muscle sensor and a servo motor, the patient's muscle activity is used to launch the catapult. Not only is this an engaging and dynamic way to rehab injuries and improve muscle strength, it also empowers the patient to take control of their own therapy.
